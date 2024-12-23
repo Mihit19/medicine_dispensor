@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "225668127919",
+    "firebase_url": "https://apptofiretorasbpi-default-rtdb.firebaseio.com",
+    "project_id": "apptofiretorasbpi",
+    "storage_bucket": "apptofiretorasbpi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225668127919:android:c999ecde55046157f1485a",
+        "android_client_info": {
+          "package_name": "com.example.ledonoff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOLM9J8g_euC1pFsNy-UR2GjcIG5F-qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225668127919:android:ad389496f487ef2ef1485a",
+        "android_client_info": {
+          "package_name": "ledonoff.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOLM9J8g_euC1pFsNy-UR2GjcIG5F-qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
